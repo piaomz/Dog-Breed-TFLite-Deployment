@@ -1,0 +1,5 @@
+Cardigan
+Chihuahua
+Labrador
+Siberian_husky
+Toy_poodle

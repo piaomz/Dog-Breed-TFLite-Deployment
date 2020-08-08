@@ -1,0 +1,10 @@
+Labrador
+Siberian_husky
+Chihuahua
+Doberman
+Pomeranian
+Samoyed
+Border_Collie
+Malinois
+Cardigan_Welsh_Corgi
+Toy_Poodle
